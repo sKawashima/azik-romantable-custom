@@ -467,7 +467,7 @@ to	と
 tp	とう
 tq	たい
 tr	たら
-tt	たち
+tte	って
 tu	つ
 tw	てい
 tya	ちゃ
@@ -554,3 +554,7 @@ zz	ざん
 '	ー
 -	ー
 ks	くさ
+tta	った
+tti	っち
+ttu	っつ
+tto	っと
