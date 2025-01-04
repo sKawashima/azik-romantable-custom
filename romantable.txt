@@ -485,11 +485,11 @@ tyw	ちぇい
 tyz	ちゃん
 tz	たん
 u	う
-va	う゛ぁ
-ve	う゛ぇ
-vi	う゛ぃ
-vo	う゛ぉ
-vu	う゛
+va	ゔぁ
+ve	ゔぇ
+vi	ゔぃ
+vo	ゔぉ
+vu	ゔ
 wa	わ
 wd	うぇん
 we	うぇ
