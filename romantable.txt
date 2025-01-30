@@ -553,8 +553,9 @@ zx	ぜい
 zz	ざん
 '	ー
 -	ー
-ks	くさ
+ks	草
 tta	った
 tti	っち
 ttu	っつ
 tto	っと
++	🙏
