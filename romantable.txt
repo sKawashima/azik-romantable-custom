@@ -560,3 +560,15 @@ ttu	っつ
 tto	っと
 +	🙏
 mr	める
+gga	ぎゃ
+ggu	ぎゅ
+ggo	ぎょ
+ggz	ぎゃん
+ggq	ぎゃい
+ggh	ぎゅう
+ggj	ぎゅん
+ggp	ぎょう
+ggl	ぎょん
+gge	ぎぇ
+ggw	ぎぇい
+ggd	ぎぇん
