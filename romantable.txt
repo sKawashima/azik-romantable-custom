@@ -553,7 +553,7 @@ zx	ぜい
 zz	ざん
 '	ー
 -	ー
-ks	草
+ks	こそ
 tta	った
 tti	っち
 ttu	っつ
