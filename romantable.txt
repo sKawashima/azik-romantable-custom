@@ -572,3 +572,4 @@ ggl	ぎょん
 gge	ぎぇ
 ggw	ぎぇい
 ggd	ぎぇん
+sm	さま
