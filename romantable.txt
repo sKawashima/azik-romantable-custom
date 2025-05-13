@@ -573,3 +573,4 @@ gge	ぎぇ
 ggw	ぎぇい
 ggd	ぎぇん
 sm	さま
+dg	だが
