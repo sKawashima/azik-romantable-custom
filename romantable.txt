@@ -99,7 +99,7 @@ fo	ふぉ
 fp	ふぉー
 fq	ふぁい
 fu	ふ
-fw	ふぇー
+fw	ふぇい
 fz	ふぁん
 ga	が
 gd	げん
